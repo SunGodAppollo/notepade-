@@ -1,0 +1,6 @@
+1.写好程序 按f5
+
+
+cmd /k 程序路径  $(FULL_CURRENT_PATH) & PAUSE & EXIT 
+如运行python
+cmd /k D:\exe\python2.7\python.exe $(FULL_CURRENT_PATH) & PAUSE & EXIT 
